@@ -1,4 +1,4 @@
-###TouchMetric
+### TouchMetric
 TouchMetric, a mobile application developed for Android and iOS, used for the
 purpose of testing a machine learning model for the development of a CPoP feature.
 
