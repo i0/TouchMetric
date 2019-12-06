@@ -20,7 +20,8 @@ purpose of testing a machine learning model for the development of a CPoP featur
 
 ### Full Paper
 The published paper is available at:
-https://www.researchgate.net/publication/330222234_Performance_Analysis_of_a_Universal_Circuit_for_Reversible_ALU_using_QCA_CMOS_Technology
+https://link.springer.com/article/10.1007/s41870-019-00306-w
+
 
 ### Screenshots
 ![](https://raw.githubusercontent.com/i0/TouchMetric/master/screenshots/1.png)
